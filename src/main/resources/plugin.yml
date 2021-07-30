@@ -1,0 +1,5 @@
+name: AntiTabComplete
+version: ${project.version}
+main: com.ayou.antitabcomplete.AntiTabComplete
+depend: [ ProtocolLib ]
+authors: [ Ayou ]
